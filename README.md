@@ -1,2 +1,3 @@
 # Regression-couscous
-All Regression Methods 
+Sample Codes for All regression Methods in python 
+
